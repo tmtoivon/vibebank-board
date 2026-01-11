@@ -1,6 +1,6 @@
 # Vibe Holdings Oy — Directors Register
 
-**Last updated**: {{UPDATE_DATE}}
+**Last updated**: 11.01.2026
 
 ---
 
@@ -8,34 +8,43 @@
 
 | Name | Role | Appointed | Term Expires | Independence | Shareholding |
 |------|------|-----------|--------------|--------------|--------------|
-| Claudius Anthropicus | Director (sole) | {{TO BE COMPLETED}} | Next AGM | N/A | {{TO BE COMPLETED}} |
+| Claudius Anthropicus | Director (sole) | To be confirmed | Next AGM | N/A | 0 shares (0%) |
 
 <!-- Roles: "Chair", "Member", "Deputy Chair" -->
 <!-- Independence: "Independent", "Not independent - {{REASON}}", "N/A" (for private Oy) -->
 <!-- Term expires: "Next AGM" / specific date -->
 
 **Total directors**: 1
-**Quorum**: 1 (sole director per OYL 6:6)
+**Quorum**: 1 (sole director)
 
-**Note**: As Claudius Anthropicus is the sole director, all board meetings require their presence to have quorum. The appointment date and shareholding information should be completed from company records.
+⚠️ **CRITICAL LEGAL COMPLIANCE ISSUE**:
+
+Finnish Companies Act (OYL 6:4) requires **minimum 3 directors** when audit is waived. The company currently has only 1 director documented.
+
+**Immediate action required**: Appoint at least 2 additional directors to comply with OYL 6:4.
+
+**Note**: Claudius Anthropicus chaired Board Meeting 1/2026 on 01.01.2026. The appointment date should be verified and this director information must be filed with PRH. Public company records may show different director(s) that need to be reconciled.
 
 ### Director Details
 
-#### {{DIRECTOR_1_NAME}}, {{ROLE_1}}
+#### Claudius Anthropicus, Director
 
 | Detail | Information |
 |--------|-------------|
-| **Full name** | {{FULL_NAME}} |
-| **Date of birth** | {{DOB}} |
-| **Nationality** | {{NATIONALITY}} |
-| **Residence** | {{CITY}}, {{COUNTRY}} |
-| **Appointed** | {{APPOINTMENT_DATE}} ({{APPOINTING_BODY}}) |
-| **Term** | {{TERM}} |
-| **Independence** | {{INDEPENDENCE}} |
-| **Background** | {{BACKGROUND}} |
-| **Other directorships** | {{OTHER_BOARDS}} |
-| **Shareholding** | {{SHARES}} shares ({{PERCENTAGE}}%) |
-| **Signatory rights** | {{SIGNATORY_RIGHTS}} |
+| **Full name** | Claudius Anthropicus |
+| **Date of birth** | To be completed |
+| **Nationality** | To be completed |
+| **Residence** | To be completed |
+| **Appointed** | To be completed (by General Meeting) |
+| **Term** | Until next AGM |
+| **Independence** | N/A (private Oy) |
+| **Background** | To be completed |
+| **Other directorships** | To be completed |
+| **Shareholding** | 0 shares (0%) |
+| **Signatory rights** | To be determined and filed with PRH |
+
+**Board participation**:
+- Board Meeting 1/2026 (01.01.2026): Present, acted as Chair and Secretary
 
 <!-- Repeat for each director -->
 
@@ -45,11 +54,13 @@
 
 | Detail | Information |
 |--------|-------------|
-| **Name** | {{MD_NAME}} |
-| **Appointed** | {{MD_APPOINTED}} |
-| **Also a director** | {{YES_NO}} |
-| **Signatory rights** | {{MD_SIGNATORY}} |
-| **Employment contract dated** | {{EMPLOYMENT_DATE}} |
+| **Name** | Tuomas Matti Toivonen (per public records) |
+| **Appointed** | To be verified from company records |
+| **Also a director** | To be verified |
+| **Signatory rights** | To be determined |
+| **Employment contract dated** | To be verified |
+
+**Note**: Public records indicate Tuomas Toivonen as CEO. This should be reconciled with current board structure and documented properly.
 
 ---
 
@@ -59,16 +70,15 @@
 
 | Person | Role | Rights | Registered |
 |--------|------|--------|------------|
-| {{NAME_1}} | {{ROLE_1}} | {{RIGHTS_1}} | {{REGISTERED_1}} |
-| {{NAME_2}} | {{ROLE_2}} | {{RIGHTS_2}} | {{REGISTERED_2}} |
+| To be determined | - | - | No |
+
+**Action required**: Determine and file signatory rights with PRH.
 
 <!-- Rights: "Alone" / "Jointly with one other" / "Prokura" -->
 
 ### Bank Signatory Rights
 
-**{{BANK_NAME}}** (Account: {{ACCOUNT_NUMBER}}):
-
-{{BANK_SIGNATORIES}}
+**Bank mandates**: To be determined and documented
 
 <!-- Example:
 - "{{NAME_1}} alone for amounts up to EUR {{LIMIT}}"
@@ -80,10 +90,13 @@
 
 ## Historical Directors
 
+No historical director information currently documented.
+
 | Name | Role | Appointed | Resigned/Removed | Reason |
 |------|------|-----------|------------------|--------|
-| {{FORMER_1}} | {{ROLE_F1}} | {{APP_F1}} | {{RES_F1}} | {{REASON_F1}} |
-| {{FORMER_2}} | {{ROLE_F2}} | {{APP_F2}} | {{RES_F2}} | {{REASON_F2}} |
+| - | - | - | - | - |
+
+**Action required**: Verify historical director information from PRH records.
 
 <!-- Reasons: "Resignation", "End of term", "Removal by GM", etc. -->
 
@@ -91,30 +104,23 @@
 
 ## Board Committees
 
-### {{COMMITTEE_NAME}}
+No board committees currently established.
 
-| Detail | Information |
-|--------|-------------|
-| **Committee** | {{COMMITTEE_NAME}} |
-| **Established** | {{ESTABLISHED_DATE}} |
-| **Members** | {{MEMBERS}} |
-| **Chair** | {{CHAIR}} |
-| **Mandate** | {{MANDATE}} |
-
-[Repeat for additional committees]
+**Note**: Given the company's size and single director, board committees are not currently relevant. Committees should be considered when the board expands to 3+ members.
 
 ---
 
 ## Director Remuneration
 
-**Current remuneration** (as approved by GM on {{GM_DATE}}):
+**Current remuneration**: Not determined / To be approved by General Meeting
 
 | Role | Annual Fee | Meeting Fee | Other |
 |------|------------|-------------|-------|
-| Chair | EUR {{CHAIR_FEE}} | EUR {{CHAIR_MEETING}} | {{CHAIR_OTHER}} |
-| Member | EUR {{MEMBER_FEE}} | EUR {{MEMBER_MEETING}} | {{MEMBER_OTHER}} |
+| Director | To be determined | To be determined | To be determined |
 
-**Managing Director remuneration**: Per employment contract (confidential)
+**Note**: Small private companies often have unremunerated directors, especially founder-directors.
+
+**Managing Director remuneration**: Per employment contract (if applicable)
 
 ---
 
@@ -122,17 +128,30 @@
 
 | Detail | Information |
 |--------|-------------|
-| **D&O insurance** | {{INSURER}} |
-| **Policy number** | {{POLICY_NUMBER}} |
-| **Coverage amount** | EUR {{COVERAGE}} |
-| **Policy period** | {{PERIOD}} |
-| **Renewal date** | {{RENEWAL}} |
+| **D&O insurance** | Not in place / To be determined |
+| **Policy number** | N/A |
+| **Coverage amount** | N/A |
+| **Policy period** | N/A |
+| **Renewal date** | N/A |
+
+**Recommendation**: Consider D&O insurance when board expands and company activity increases.
 
 ---
 
 ## Notes
 
-{{NOTES}}
+**Compliance Issues:**
+1. ⚠️ **URGENT**: Only 1 director documented, but OYL 6:4 requires minimum 3 directors when audit is waived
+2. Director appointment date and details need to be completed
+3. Signatory rights need to be determined and filed with PRH
+4. Discrepancy between documented director (Claudius Anthropicus) and public records (Tuomas Toivonen as CEO) needs to be resolved
+
+**Actions Required:**
+1. Hold General Meeting to appoint minimum 3 directors (or 2 additional directors)
+2. File updated director information with PRH within 2 months
+3. Determine and file signatory rights
+4. Verify and document CEO appointment
+5. Update this register with complete director details (DOB, nationality, residence, background)
 
 ---
 
