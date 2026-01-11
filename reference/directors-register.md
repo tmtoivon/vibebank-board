@@ -8,16 +8,16 @@
 
 | Name | Role | Appointed | Term Expires | Independence | Shareholding |
 |------|------|-----------|--------------|--------------|--------------|
-| {{DIRECTOR_1}} | {{ROLE_1}} | {{APPOINTED_1}} | {{EXPIRES_1}} | {{INDEP_1}} | {{SHARES_1}} |
-| {{DIRECTOR_2}} | {{ROLE_2}} | {{APPOINTED_2}} | {{EXPIRES_2}} | {{INDEP_2}} | {{SHARES_2}} |
-| {{DIRECTOR_3}} | {{ROLE_3}} | {{APPOINTED_3}} | {{EXPIRES_3}} | {{INDEP_3}} | {{SHARES_3}} |
+| Claudius Anthropicus | Director (sole) | {{TO BE COMPLETED}} | Next AGM | N/A | {{TO BE COMPLETED}} |
 
 <!-- Roles: "Chair", "Member", "Deputy Chair" -->
 <!-- Independence: "Independent", "Not independent - {{REASON}}", "N/A" (for private Oy) -->
 <!-- Term expires: "Next AGM" / specific date -->
 
-**Total directors**: {{TOTAL_DIRECTORS}}
-**Quorum**: {{QUORUM_NUMBER}} (more than half per OYL 6:6)
+**Total directors**: 1
+**Quorum**: 1 (sole director per OYL 6:6)
+
+**Note**: As Claudius Anthropicus is the sole director, all board meetings require their presence to have quorum. The appointment date and shareholding information should be completed from company records.
 
 ### Director Details
 
