@@ -1,0 +1,72 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Editor Files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.old
+~$*.docx
+~$*.xlsx
+
+# Sensitive Information (examples - adjust as needed)
+# Uncomment if you want to exclude certain sensitive files:
+# sensitive/
+# confidential/
+# *.pdf
+# *.docx
+# *.xlsx
+
+# Build and Package Files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment and Configuration
+.env
+.env.local
+.env.*.local
+config.local.json
+secrets.json
+
+# Archive Files (if you don't want them in repo)
+# *.zip
+# *.tar.gz
+# *.rar
+
+# Microsoft Office Temp Files
+~$*
+
+# macOS
+.AppleDouble
+.LSOverride
+
+# Windows
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.directory
+.Trash-*
+
+# Note: Git LFS might be useful for large PDFs or scanned documents
+# See: https://git-lfs.github.com/
