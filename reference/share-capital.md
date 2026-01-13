@@ -1,6 +1,6 @@
 # Vibe Holdings Oy — Share Capital
 
-**Last updated**: 11.01.2026
+**Last updated**: 11.01.2026 (after Board Meeting 2/2026)
 
 ---
 
@@ -43,10 +43,11 @@ Including outstanding options and convertible instruments:
 |-----------|--------|
 | Issued shares | 10 000 |
 | Options outstanding (Senna Koiranen) | 1 000 |
+| Options outstanding (Bruce Willis) | 1 500 |
 | Convertible loans (if converted) | 0 |
-| **Fully diluted** | **11 000** |
+| **Fully diluted** | **12 500** |
 
-**Dilution from options**: 9.09% (1,000 / 11,000)
+**Dilution from options**: 20.00% (2,500 / 12,500)
 
 ## Share Issuance History
 
@@ -126,16 +127,24 @@ Transfer restrictions likely apply per standard Finnish Oy Articles of Associati
 - **No distributable funds** available for dividends
 
 **Option Plan Impact:**
-- 1,000 options granted to Senna Koiranen at EUR 0.42 exercise price
-- If exercised: Additional share capital of EUR 250 (1,000 shares × EUR 0.25 par)
-- Additional EUR 170 would go to share premium (1,000 × (EUR 0.42 - EUR 0.25))
-- Post-exercise equity: EUR -3,500 + EUR 420 = EUR -3,080
-- Dilution to founder: From 100% to 90.91%
+- 2,500 options granted to date:
+  - 1,000 options to Senna Koiranen at EUR 0.42 exercise price (01.01.2026)
+  - 1,500 options to Bruce Willis at EUR 0.50 exercise price (11.01.2026)
+- If all options exercised:
+  - Additional share capital of EUR 625 (2,500 shares × EUR 0.25 par)
+  - Additional EUR 505 would go to share premium:
+    - Senna: 1,000 × (EUR 0.42 - EUR 0.25) = EUR 170
+    - Bruce: 1,500 × (EUR 0.50 - EUR 0.25) = EUR 375
+  - Total cash proceeds: EUR 1,130 (625 + 505)
+  - Post-exercise equity: EUR -3,500 + EUR 1,130 = EUR -2,370
+- Dilution to founder: From 100% to 80.00% (10,000 / 12,500)
 
-**Option Exercise Price Rationale:**
-- Exercise price EUR 0.42 per share
+**Option Exercise Price Progression:**
+- Senna Koiranen (01.01.2026): EUR 0.42 per share
+- Bruce Willis (11.01.2026): EUR 0.50 per share
+- Increase: EUR 0.08 (19% premium to previous grant)
 - Current book value per share: EUR -0.35 (negative equity ÷ 10,000 shares)
-- Exercise price represents approximately 40% premium to potential future valuation target
+- Exercise prices represent significant premiums to book value, reflecting growth expectations
 
 ---
 
